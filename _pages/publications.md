@@ -10,14 +10,14 @@ author_profile: true
 {% endif %}
 
 **Under Review and In preparation**
-======
+------
 * 
 
 
 **Peer-reviewed conferences and journals**
-======
+------
 * 
 
 **Peer-reviewed conference abstracts and poster presentations**
-======
+------
 * 
