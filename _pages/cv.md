@@ -7,6 +7,4 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
-
-CV pending - Will be available for pdf download here soon
+CV pending - Will be available for pdf download here soon!
