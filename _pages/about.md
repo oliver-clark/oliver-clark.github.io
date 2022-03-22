@@ -1,6 +1,5 @@
 ---
 permalink: /
-title: "Oliver Clark's Website"
 excerpt: "My CV, publications, blog, etc"
 author_profile: true
 redirect_from: 
