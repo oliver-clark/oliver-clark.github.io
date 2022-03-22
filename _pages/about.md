@@ -1,5 +1,6 @@
 ---
 permalink: /
+title: ""
 excerpt: "My CV, publications, blog, etc"
 author_profile: true
 redirect_from: 
