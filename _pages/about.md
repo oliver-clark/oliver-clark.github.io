@@ -25,6 +25,8 @@ In the past, I performed research at:
 More about me:
 ------
 
+On this website, I maintain [a blog](https://oliver-clark.github.io/year-archive/) with research progress. Besides work, I love running, swimming, piano, books, bagels, and black coffee. 
+
 **On my bookshelf right now**
 
 - Red Notice by Bill Browder
@@ -40,3 +42,5 @@ More about me:
 - Weekly Internal Medicine grand rounds at UCSF, WashU, Washington University at Seattle, and Emory university
 - CBC News: The World at Six
 - Toronto Maple Leafs
+
+Over the next few weeks and months, this website will continue to be updated with a CV and blog posts.
