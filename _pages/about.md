@@ -19,8 +19,8 @@ I completed my BSc at McGill University in Biology, Computer Science, and Mathem
 In the past, I performed research at:
 
 - [Sarah Woolley Lab](https://sarahwoolleylab.wordpress.com/) in songbird perception and production
-- [BHKLab](https://www.pmgenomics.ca/bhklab/), a lab with Princess Margaret Bioinformatics and Computational Genomics
-- [Systems Biology Ireland: Halasz group](https://www.ucd.ie/sbi/team/groups/halaszgroup/) studying pediatric and obstretic malignancies
+- [BHKLab](https://www.pmgenomics.ca/bhklab/) with Princess Margaret Bioinformatics and Computational Genomics
+- [Systems Biology Ireland: Halasz group](https://www.ucd.ie/sbi/team/groups/halaszgroup/) studying pediatric and obstetric malignancies
 
 More about me:
 ------
@@ -31,7 +31,7 @@ On this website, I maintain [a blog](https://oliver-clark.github.io/year-archive
 
 - Red Notice by Bill Browder
 
-**Podcasts I'm listening to**
+**Podcasts I'm listening to!**
 
 - The Curbsiders, around episode #270
 - Core IM
@@ -40,7 +40,8 @@ On this website, I maintain [a blog](https://oliver-clark.github.io/year-archive
 **Other things I follow**
 
 - Weekly Internal Medicine grand rounds at UCSF, WashU, Washington University at Seattle, and Emory university
+- The Annals of Internal Medicine Consult Guys
 - CBC News: The World at Six
-- Toronto Maple Leafs
+- Alllllll Toronto Maple Leafs games!
 
 Over the next few weeks and months, this website will continue to be updated with a CV and blog posts.
