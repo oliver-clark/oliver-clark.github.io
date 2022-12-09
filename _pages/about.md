@@ -33,7 +33,8 @@ On this website, I maintain [a blog](https://oliver-clark.github.io/year-archive
 
 **Podcasts I'm listening to!**
 
-- The Curbsiders, around episode #270
+- The Curbsiders
+- JAMA Clinical Reviews
 - Core IM
 - Harrison's PodClass: Internal Medicine
 
@@ -42,6 +43,7 @@ On this website, I maintain [a blog](https://oliver-clark.github.io/year-archive
 - Weekly Internal Medicine grand rounds at UCSF, WashU, Washington University at Seattle, and Emory university
 - The Annals of Internal Medicine Consult Guys
 - CBC News: The World at Six
+- MKBHD on Youtube for the latest updates in the world of tech
 - Alllllll Toronto Maple Leafs games!
 
-Over the next few weeks and months, this website will continue to be updated with a CV and blog posts.
+Over the months of my residency, I'll continue to update this website with blog posts on my research - this will serve as a research diary for me, and hopefully a source of information for others.
