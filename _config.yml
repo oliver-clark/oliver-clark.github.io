@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : "oliverclark0"
+  username               : 
 og_image                 :  # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
@@ -78,16 +78,16 @@ analytics:
 author:
   name             : "Oliver Clark"
   avatar           : "headshot2.jpg"
-  bio              : "Physician Researcher"
-  location         : "Philadelphia, PA"
-  employer         : "UPHS"
+  bio              : "Fellow Physician"
+  location         : "Boston, MA"
+  employer         : "BIDMC"
   googlescholar    : "https://scholar.google.com/citations?user=wSVuE_EAAAAJ&hl=en"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   github           : "oliver-clark"
   linkedin         : "oliverclark6"
   orcid            : "https://orcid.org/0000-0003-4937-2158"
-  twitter          : "oliverclark0"
+  twitter          :
   youtube          :
   wikipedia        :
 
