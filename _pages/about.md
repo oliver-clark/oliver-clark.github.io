@@ -10,7 +10,7 @@ redirect_from:
 
 Hello!
 ------
-I'm a Hematology/Oncology fellow at [Beth Israel Deaconess Medical Center](https://www.bidmc.org). 
+I'm a Hematology/Oncology fellow at [Beth Israel Deaconess Medical Center](https://bidmc.org/education-training/graduate/fellowships/hematology-oncology/current-fellows).
 
 My interests lie in Hematology & Oncology, particularly in cancer screening, genetic predispositions to cancer, and immune-modulating cancer therapies.
 
