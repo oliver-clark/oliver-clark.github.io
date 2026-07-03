@@ -1,13 +1,13 @@
 # main links links
 main:
-  - title: "CV"
-    url: /cv/
-
-  - title: "Publications"
-    url: /publications/    
-
   - title: "Blog"
-    url: /year-archive/    
-    
-  - title: "Guide"
-    url: /markdown/
+    url: /year-archive/
+
+  - title: "Current Projects"
+    url: /current-projects
+
+  - title: "Educational Content"
+    url: /educational-content/
+
+  - title: "CV"
+    url: /cv/    
