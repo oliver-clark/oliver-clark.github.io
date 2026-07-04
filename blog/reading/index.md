@@ -3,20 +3,26 @@ title: "Reading"
 layout: archive
 permalink: /blog/reading/
 author_profile: true
-taxonomy: categories
-taxonomy_name: reading
 ---
 
 This is the reading blog page. 
 
-{% assign posts = site.categories.reading %}
 {% include base_path %}
+
 {% capture written_year %}'None'{% endcapture %}
-{% for post in posts %}
+
+{% for post in site.categories.reading %}
+
   {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
+
   {% if year != written_year %}
+
     <h2 id="{{ year | slugify }}" class="archive__subtitle">{{ year }}</h2>
+
     {% capture written_year %}{{ year }}{% endcapture %}
+
   {% endif %}
+
   {% include archive-single.html %}
+
 {% endfor %}
