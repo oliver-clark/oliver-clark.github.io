@@ -3,8 +3,26 @@ title: "AI Education"
 layout: archive
 permalink: /blog/AI-education/
 author_profile: true
-taxonomy: categories
-taxonomy_name: AI-education
 ---
 
 This is the AI Education blog page. 
+
+{% include base_path %}
+
+{% capture written_year %}'None'{% endcapture %}
+
+{% for post in site.categories.AI-education %}
+
+  {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
+
+  {% if year != written_year %}
+
+    <h2 id="{{ year | slugify }}" class="archive__subtitle">{{ year }}</h2>
+
+    {% capture written_year %}{{ year }}{% endcapture %}
+
+  {% endif %}
+
+  {% include archive-single.html %}
+
+{% endfor %}
