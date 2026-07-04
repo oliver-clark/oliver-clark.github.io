@@ -2,7 +2,7 @@
 title: "Blog"
 layout: home
 permalink: /blog/
-author_profile: false
+author_profile: true
 ---
 
 Welcome to my blog. Here you'll find articles covering clinical oncology, medical education, research, and personal adventures.
