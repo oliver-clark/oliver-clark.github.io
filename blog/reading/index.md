@@ -1,7 +1,7 @@
 ---
 title: "Reading"
 layout: archive
-permalink: /reading/
+permalink: /blog/reading/
 author_profile: false
 taxonomy: categories
 taxonomy_name: reading
