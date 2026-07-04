@@ -1,7 +1,7 @@
 ---
 title: "AI Education"
 layout: archive
-permalink: /AI-education/
+permalink: /blog/AI-education/
 author_profile: false
 taxonomy: categories
 taxonomy_name: AI-education
