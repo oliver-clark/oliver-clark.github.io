@@ -1,7 +1,7 @@
 ---
 title: "PRS"
 layout: archive
-permalink: /PRS/
+permalink: /blog/PRS/
 author_profile: false
 taxonomy: categories
 taxonomy_name: PRS
