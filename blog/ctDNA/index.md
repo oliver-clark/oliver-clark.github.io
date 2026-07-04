@@ -1,7 +1,7 @@
 ---
 title: "ctDNA"
 layout: archive
-permalink: /ctDNA/
+permalink: /blog/ctDNA/
 author_profile: false
 taxonomy: categories
 taxonomy_name: ctDNA
