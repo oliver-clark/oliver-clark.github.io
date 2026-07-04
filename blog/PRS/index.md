@@ -2,7 +2,7 @@
 title: "PRS"
 layout: archive
 permalink: /blog/PRS/
-author_profile: false
+author_profile: true
 taxonomy: categories
 taxonomy_name: PRS
 ---
