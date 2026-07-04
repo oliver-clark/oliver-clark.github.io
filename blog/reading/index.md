@@ -2,7 +2,7 @@
 title: "Reading"
 layout: archive
 permalink: /blog/reading/
-author_profile: false
+author_profile: true
 taxonomy: categories
 taxonomy_name: reading
 ---
