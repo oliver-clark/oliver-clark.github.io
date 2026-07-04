@@ -1,8 +1,8 @@
 ---
-layout: archive
-permalink: /blog/
 title: "Blog"
-author_profile: true
+layout: home
+permalink: /blog/
+author_profile: false
 ---
 
 Welcome to my blog. Here you'll find articles covering clinical oncology, medical education, research, and personal adventures.
