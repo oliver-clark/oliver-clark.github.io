@@ -12,7 +12,7 @@ Hello!
 ------
 I'm a Hematology/Oncology fellow at [Beth Israel Deaconess Medical Center](https://bidmc.org/education-training/graduate/fellowships/hematology-oncology/current-fellows).
 
-My interests lie in Hematology & Oncology, particularly in cancer screening, genetic predispositions to cancer, and immune-modulating cancer therapies.
+My interests lie in Hematology & Oncology, particularly in thoracic oncology, immunotherapies, and genomic biomarkers to evaluate cancer risk and treatment response.
 
 I completed my BSc at McGill University in Biology, Computer Science, and Mathematics. I then completed my medical degree at University College Dublin in Ireland. Most recently, I completed my Internal Medicine Residency at Pennsylvania Hospital, where I also served as chief resident. 
 
