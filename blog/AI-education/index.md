@@ -2,7 +2,7 @@
 title: "AI Education"
 layout: archive
 permalink: /blog/AI-education/
-author_profile: false
+author_profile: true
 taxonomy: categories
 taxonomy_name: AI-education
 ---
