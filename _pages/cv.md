@@ -6,5 +6,4 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
 [**See this PDF link for an updated CV July 2026 **](https://oliver-clark.github.io/files/CV_oliver_clark.pdf)
