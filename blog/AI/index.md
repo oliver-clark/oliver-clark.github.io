@@ -1,7 +1,7 @@
 ---
 title: "AI Education"
 layout: archive
-permalink: /blog/AI-education/
+permalink: /blog/AI/
 author_profile: true
 ---
 
@@ -11,7 +11,7 @@ This is the AI Education blog page.
 
 {% capture written_year %}'None'{% endcapture %}
 
-{% for post in site.categories.AI-education %}
+{% for post in site.categories.AI %}
 
   {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
 
