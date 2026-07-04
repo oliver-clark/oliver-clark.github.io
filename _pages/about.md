@@ -22,6 +22,6 @@ In the past, I performed research at:
 - [BHKLab](https://www.pmgenomics.ca/bhklab/) with Princess Margaret Bioinformatics and Computational Genomics
 - [Systems Biology Ireland: Halasz group](https://www.ucd.ie/sbi/team/groups/halaszgroup/) studying pediatric and obstetric malignancies
 
-On this website, I maintain [a blog](https://oliver-clark.github.io/year-archive/) with research notes. Besides work, I love running, piano, books, bagels, and black coffee. 
+On this website, I maintain [a blog](/blog/) with research notes. Besides work, I love running, piano, books, bagels, and black coffee. 
 
 Over my career, I'll continue to update this website with blog posts on my research - this will serve as a research diary for me, and hopefully a source of information for others.
