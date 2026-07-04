@@ -2,7 +2,7 @@
 title: "ctDNA"
 layout: archive
 permalink: /blog/ctDNA/
-author_profile: false
+author_profile: true
 taxonomy: categories
 taxonomy_name: ctDNA
 ---
