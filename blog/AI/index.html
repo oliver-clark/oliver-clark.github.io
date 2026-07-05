@@ -4,25 +4,17 @@ layout: archive
 permalink: /blog/AI/
 author_profile: true
 ---
-
+<body>
 Hi, this page will be dedicated to blogs on AI Education. In particular, my interests lie in educating subspecialty physicians in the use of effective tools such as OpenEvidence, ChatGPT, and Ambient scribes. 
+</body>
 
 {% include base_path %}
-
 {% capture written_year %}'None'{% endcapture %}
-
 {% for post in site.categories.AI %}
-
   {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
-
   {% if year != written_year %}
-
     <h2 id="{{ year | slugify }}" class="archive__subtitle">{{ year }}</h2>
-
     {% capture written_year %}{{ year }}{% endcapture %}
-
   {% endif %}
-
   {% include archive-single.html %}
-
 {% endfor %}
