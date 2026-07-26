@@ -1,7 +1,7 @@
 ---
 title: 'Hypotension'
 date: 2026-07-26
-permalink: /posts/educational-content/internalmedicine/2026/07/hypotension/
+permalink: /posts/educational-content/internal-medicine/2026/07/hypotension/
 categories: 
     - internal-medicine 
     - educational-content

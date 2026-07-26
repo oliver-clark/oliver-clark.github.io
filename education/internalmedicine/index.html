@@ -1,7 +1,7 @@
 ---
 title: "Educational Content in Internal Medicine"
 layout: archive
-permalink: /educational-content/internalmedicine/
+permalink: /educational-content/internal-medicine/
 author_profile: true
 ---
 <body>
@@ -10,7 +10,7 @@ Hi, this page will be dedicated to content for residents on subjects within inte
 
 {% include base_path %}
 {% capture written_year %}'None'{% endcapture %}
-{% for post in site.categories.internalmedicine %}
+{% for post in site.categories.internal-medicine %}
   {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
   {% if year != written_year %}
     <h2 id="{{ year | slugify }}" class="archive__subtitle">{{ year }}</h2>
