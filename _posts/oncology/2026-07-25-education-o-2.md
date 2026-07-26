@@ -1,13 +1,13 @@
 ---
-title: 'ALK-fusion positive NSCLC'
+title: 'PALB2 Mutation'
 date: 2026-07-25
-permalink: /posts/educational-content/oncology/2026/07/NSCLC-ALK/
+permalink: /posts/educational-content/oncology/2026/07/PALB2/
 categories: 
     - oncology 
     - educational-content
 ---
 
-# ALK-fusion-positive Non-small cell lung cancer
+# PALB2 Mutation
 
 This page contains the presentation and a downloadable copy.
 
@@ -15,8 +15,8 @@ This page contains the presentation and a downloadable copy.
 
 <div style="position:relative; width:100%; padding-top:56.25%; overflow:hidden;">
   <iframe
-    src="https://coppclark-my.sharepoint.com/:p:/g/personal/oliver_coppclark_ca/IQADYhdIIc8pSrQOJVDRmd_0Aa9U8QL1k1y2J5A12XOrcf4?e=h7zFbU&amp;action=embedview&amp;"
-    title="NSCLC-ALK"
+    src="https://coppclark-my.sharepoint.com/:p:/g/personal/oliver_coppclark_ca/IQBLifZzuk59RqjkD1dCfnVVAfYY10fnh2UPeIrI1Zc2vhQ?e=pOQ10N&amp;action=embedview"
+    title="PALB2"
     style="position:absolute; inset:0; width:100%; height:100%; border:1px solid #ccc;"
     frameborder="0"
     scrolling="no"
@@ -26,7 +26,7 @@ This page contains the presentation and a downloadable copy.
 
 <p>
   <a
-    href="https://coppclark-my.sharepoint.com/:p:/g/personal/oliver_coppclark_ca/IQADYhdIIc8pSrQOJVDRmd_0Aa9U8QL1k1y2J5A12XOrcf4?e=h7zFbU"
+    href="https://coppclark-my.sharepoint.com/:p:/g/personal/oliver_coppclark_ca/IQBLifZzuk59RqjkD1dCfnVVAfYY10fnh2UPeIrI1Zc2vhQ?e=pOQ10N"
     target="_blank"
     rel="noopener">
     Open or download the PowerPoint
