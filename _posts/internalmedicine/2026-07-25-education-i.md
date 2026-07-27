@@ -13,7 +13,7 @@ This is a talk that was given to the DFCI Inpatient Hospital group, and focuses 
 
 ## 1 page summary figure
 <img
-  src="{{ '/assets/images/hypotension.png' | relative_url }}"
+  src="{{ '/assets/images/shock_summary_figure.png' | relative_url }}"
   alt="Hypotension educational overview"
   style="display:block; width:100%; max-width:900px; height:auto; margin:1.5rem auto;">
 
