@@ -1,19 +1,19 @@
 ---
-title: 'Hypotension'
-date: 2026-07-16
-permalink: /posts/educational-content/internal-medicine/2026/07/hypotension/
+title: 'Glaucoma'
+date: 2024-02-28
+permalink: /posts/educational-content/internal-medicine/2024/02/glaucoma/
 categories: 
     - internal-medicine 
     - educational-content
 ---
 
-# Hypotension
+# Glaucoma
 
-This is a talk that was given to the DFCI Inpatient Hospital group, and focuses on inpatient management of hypotension. 
+This is a talk that was given to the Pennsylvania Hospital Internal Medicine group on Glaucoma.
 
 ## 1 page summary figure
 <img
-  src="{{ '/assets/images/shock_summary_figure.png' | relative_url }}"
+  src="{{ '/assets/images/glaucoma_summary_figure.png' | relative_url }}"
   alt="Hypotension educational overview"
   style="display:block; width:100%; max-width:900px; height:auto; margin:1.5rem auto;">
 
@@ -21,7 +21,7 @@ This is a talk that was given to the DFCI Inpatient Hospital group, and focuses 
 
 <div style="position:relative; width:100%; padding-top:56.25%; overflow:hidden;">
   <iframe
-    src="{{ '/assets/pdfs/Hypotension.pdf' | relative_url }}"
+    src="{{ '/assets/pdfs/Glaucoma.pdf' | relative_url }}"
     title="Hypotension"
     style="position:absolute; inset:0; width:100%; height:100%; border:1px solid #ccc;"
     frameborder="0"
@@ -33,7 +33,7 @@ This is a talk that was given to the DFCI Inpatient Hospital group, and focuses 
 ## Download the powerpoint
 <p>
   <a
-    href="https://coppclark-my.sharepoint.com/:p:/g/personal/oliver_coppclark_ca/IQAJg6Ej9-AgS69m6Uy-oSC3AUx6eIp8OcUh4e2oxiIjGNs?e=MI9guY"
+    href="https://coppclark-my.sharepoint.com/:p:/g/personal/oliver_coppclark_ca/IQCkwSZC4oqiRIDWLDjYJ8tZAdLGFtQmfZq98qL8QgexAmk?e=6iND0M"
     target="_blank"
     rel="noopener">
     Open or download the PowerPoint
