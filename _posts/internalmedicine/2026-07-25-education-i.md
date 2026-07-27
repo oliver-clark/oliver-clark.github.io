@@ -7,8 +7,6 @@ categories:
     - educational-content
 ---
 
-# Hypotension
-
 This is a talk that was given to the DFCI Inpatient Hospital group, and focuses on inpatient management of hypotension. 
 
 ## 1 page summary figure

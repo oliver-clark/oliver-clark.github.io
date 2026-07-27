@@ -7,8 +7,6 @@ categories:
     - educational-content
 ---
 
-# PALB2 Mutations
-
 This is a talk that was given to the Pennsylvania Hospital group on PALB2 Mutations
 
 ## 1 page summary figure

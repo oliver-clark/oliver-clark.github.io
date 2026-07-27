@@ -1,13 +1,11 @@
 ---
-title: 'ALK Fusion NSCLC'
+title: 'Non-small cell lung cancer with ALK Fusion'
 date: 2024-04-29
 permalink: /posts/educational-content/oncology/2024/04/NSCLC-ALK/
 categories: 
     - oncology
     - educational-content
 ---
-
-# Non-small cell lung cancer with ALK Fusion
 
 This is a talk that was given to the Pennsylvania Hospital group on ALK Fusions in NSCLC.
 

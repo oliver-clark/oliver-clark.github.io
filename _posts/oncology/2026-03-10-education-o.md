@@ -1,13 +1,11 @@
 ---
-title: 'ctDNA'
+title: 'Overview of ctDNA'
 date: 2026-03-10
 permalink: /posts/educational-content/oncology/2026/03/ctDNA/
 categories: 
     - oncology
     - educational-content
 ---
-
-# Overview of ctDNA
 
 This is a talk that was given to the BIDMC Hematology/Oncology Fellow group on ctDNA
 
@@ -21,7 +19,7 @@ This is a talk that was given to the BIDMC Hematology/Oncology Fellow group on c
 
 <div style="position:relative; width:100%; padding-top:56.25%; overflow:hidden;">
   <iframe
-    src="{{ '/assets/pdfs/ctDNA.pdf' | relative_url }}"
+    src="{{ '/assets/pdfs/ctDNA.pdf' | relative_url }}#page=1&view=Fit"
     title="Hypotension"
     style="position:absolute; inset:0; width:100%; height:100%; border:1px solid #ccc;"
     frameborder="0"

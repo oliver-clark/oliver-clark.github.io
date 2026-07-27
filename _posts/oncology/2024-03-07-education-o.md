@@ -7,8 +7,6 @@ categories:
     - educational-content
 ---
 
-# Clinicopathological Conference: ICI Adrenal Insufficiency
-
 This is a talk that was given to the Pennsylvania Hospital group on Adrenal Insufficiency secondary to ICI therapy. 
 
 ## 1 page summary figure

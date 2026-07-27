@@ -7,8 +7,6 @@ categories:
     - educational-content
 ---
 
-# Amlodipine Overdose
-
 This is a talk that was given to the Pennsylvania Hospital Internal Medicine group on a case report of Amlodipine Overdose.
 
 ## 1 page summary figure

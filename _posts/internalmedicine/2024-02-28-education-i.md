@@ -7,8 +7,6 @@ categories:
     - educational-content
 ---
 
-# Glaucoma
-
 This is a talk that was given to the Pennsylvania Hospital Internal Medicine group on Glaucoma.
 
 ## 1 page summary figure
