@@ -1,19 +1,19 @@
 ---
-title: 'PALB2 Mutations'
-date: 2023-05-01
-permalink: /posts/educational-content/oncology/2023/05/PALB2/
+title: 'Immune-Checkpoint-Inhibitor Adrenal Insufficiency'
+date: 2024-03-07
+permalink: /posts/educational-content/oncology/2024/03/ICI-AI/
 categories: 
     - oncology
     - educational-content
 ---
 
-# PALB2 Mutations
+# Clinicopathological Conference: ICI Adrenal Insufficiency
 
-This is a talk that was given to the Pennsylvania Hospital group on PALB2 Mutations
+This is a talk that was given to the Pennsylvania Hospital group on Adrenal Insufficiency secondary to ICI therapy. 
 
 ## 1 page summary figure
 <img
-  src="{{ '/assets/images/PALB2_summary_figure.png' | relative_url }}"
+  src="{{ '/assets/images/ICI_AI_summary_figure.png' | relative_url }}"
   alt="Hypotension educational overview"
   style="display:block; width:100%; max-width:900px; height:auto; margin:1.5rem auto;">
 
@@ -21,7 +21,7 @@ This is a talk that was given to the Pennsylvania Hospital group on PALB2 Mutati
 
 <div style="position:relative; width:100%; padding-top:56.25%; overflow:hidden;">
   <iframe
-    src="{{ '/assets/pdfs/PALB2.pdf' | relative_url }}"
+    src="{{ '/assets/pdfs/ICI-AI.pdf' | relative_url }}"
     title="Hypotension"
     style="position:absolute; inset:0; width:100%; height:100%; border:1px solid #ccc;"
     frameborder="0"
@@ -33,7 +33,7 @@ This is a talk that was given to the Pennsylvania Hospital group on PALB2 Mutati
 ## Download the powerpoint
 <p>
   <a
-    href="https://coppclark-my.sharepoint.com/:p:/g/personal/oliver_coppclark_ca/IQBLifZzuk59RqjkD1dCfnVVAaeHnX_QcyXolWiJDbataL8?e=Yqb4Qz"
+    href="https://coppclark-my.sharepoint.com/:p:/g/personal/oliver_coppclark_ca/IQCPo08YUqI8Q4Pz06G_hHP-ARIN0IHVQJPk-iDW7HQqM_g?e=FFt4sb"
     target="_blank"
     rel="noopener">
     Open or download the PowerPoint
