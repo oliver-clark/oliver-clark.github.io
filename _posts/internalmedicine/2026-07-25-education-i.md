@@ -24,9 +24,6 @@ This page contains the presentation and a downloadable copy.
   </iframe>
 </div>
 
-
-https://coppclark-my.sharepoint.com/:p:/g/personal/oliver_coppclark_ca/IQAJg6Ej9-AgS69m6Uy-oSC3AbeBYnn7zsGdcBT_Pn8u_ss?e=xj8QAi
-
 <p>
   <a
     href="https://coppclark-my.sharepoint.com/:p:/g/personal/oliver_coppclark_ca/IQAJg6Ej9-AgS69m6Uy-oSC3AbeBYnn7zsGdcBT_Pn8u_ss?e=xj8QAi"
