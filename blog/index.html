@@ -53,7 +53,10 @@ author_profile: true
       gap: 22px;
     }
 
-    .button-grid .page-button, .button-grid .page-button:link, .button-grid .page-button:visited, .button-grid .page-button:hover, .button-grid .page-button:focus, .button-grid .page-button:active, .button-grid .page-button * { text-decoration: none !important; }
+    .button-grid .page-button,
+    .button-grid .page-button * {
+      text-decoration: none !important;
+    }
     
     .page-button {
       display: flex;
