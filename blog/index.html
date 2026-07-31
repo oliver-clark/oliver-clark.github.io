@@ -4,51 +4,213 @@ layout: archive
 permalink: /blog/
 author_profile: true
 ---
+<!DOCTYPE html>
+<html lang="en">
 
-<div class="feature__wrapper">
-  <div class="feature__item">
-    <div class="archive__item">
-      <h2 class="archive__item-title">
-        <a href="/blog/reading/" style="color:#0B4F8A;">📚 Reading 📚</a>
-      </h2>
-      <div class="archive__item-excerpt">
-        Musings of scientific journal articles.
-      </div>
-    </div>
-  </div>
-  <div class="feature__item">
-    <div class="archive__item">
-      <h2 class="archive__item-title">
-        <a href="/blog/ctDNA/" style="color:#0B4F8A;">🧬 ctDNA 🧬</a>
-      </h2>
-      <div class="archive__item-excerpt">
-        Ongoing work in circulating tumor DNA
-      </div>
-    </div>
-  </div>
-</div>
-<div class="feature__wrapper">
-  <div class="feature__item">
-    <div class="archive__item">
-      <h2 class="archive__item-title">
-        <a href="/blog/AI/" style="color:#0B4F8A;">✨ AI Education ✨</a>
-      </h2>
-      <div class="archive__item-excerpt">
-        Work on educating physicians on effective AI use. 
-      </div>
-    </div>
-  </div>
-  <div class="feature__item">
-    <div class="archive__item">
-      <h2 class="archive__item-title">
-        <a href="/blog/PRS/" style="color:#0B4F8A;">👴 PRS 👵</a>
-      </h2>
-      <div class="archive__item-excerpt">
-        Old research in Polygenic Risk Scores.
-      </div>
-    </div>
-  </div>
-</div>
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <title>Blog</title>
+
+  <style>
+    * {
+      box-sizing: border-box;
+    }
+
+    body {
+      margin: 0;
+      min-height: 100vh;
+      font-family: Arial, Helvetica, sans-serif;
+      background: linear-gradient(135deg, #f3f4f6, #dbeafe);
+      color: #172033;
+    }
+
+    .page-container {
+      width: min(1100px, 92%);
+      margin: 0 auto;
+      padding: 70px 0;
+    }
+
+    .hero {
+      max-width: 720px;
+      margin-bottom: 40px;
+    }
+
+    .hero h1 {
+      margin: 0 0 14px;
+      font-size: clamp(2.3rem, 6vw, 4.5rem);
+      line-height: 1;
+    }
+
+    .hero p {
+      margin: 0;
+      font-size: 1.15rem;
+      line-height: 1.7;
+      color: #526078;
+    }
+
+    .button-grid {
+      display: grid;
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+      gap: 22px;
+    }
+
+    .page-button {
+      display: flex;
+      flex-direction: column;
+      justify-content: space-between;
+      min-height: 210px;
+      padding: 30px;
+      border: 1px solid rgba(255, 255, 255, 0.7);
+      border-radius: 24px;
+
+      color: white;
+      text-decoration: none;
+      background: #2563eb;
+      box-shadow: 0 15px 35px rgba(15, 23, 42, 0.15);
+
+      transition:
+        transform 0.2s ease,
+        box-shadow 0.2s ease,
+        filter 0.2s ease;
+    }
+
+    .page-button:nth-child(2) {
+      background: #7c3aed;
+    }
+
+    .page-button:nth-child(3) {
+      background: #059669;
+    }
+
+    .page-button:nth-child(4) {
+      background: #ea580c;
+    }
+
+    .page-button:hover {
+      transform: translateY(-7px);
+      box-shadow: 0 22px 45px rgba(15, 23, 42, 0.25);
+      filter: brightness(1.06);
+    }
+
+    .page-button:focus-visible {
+      outline: 4px solid #111827;
+      outline-offset: 5px;
+    }
+
+    .button-icon {
+      font-size: 2rem;
+    }
+
+    .button-title {
+      margin: 35px 0 8px;
+      font-size: 1.65rem;
+    }
+
+    .button-description {
+      margin: 0;
+      line-height: 1.5;
+      color: rgba(255, 255, 255, 0.86);
+    }
+
+    .button-arrow {
+      align-self: flex-end;
+      margin-top: 20px;
+      font-size: 1.5rem;
+    }
+
+    @media (max-width: 700px) {
+      .page-container {
+        padding: 45px 0;
+      }
+
+      .button-grid {
+        grid-template-columns: 1fr;
+      }
+
+      .page-button {
+        min-height: 180px;
+      }
+    }
+
+    @media (prefers-reduced-motion: reduce) {
+      .page-button {
+        transition: none;
+      }
+
+      .page-button:hover {
+        transform: none;
+      }
+    }
+  </style>
+</head>
+
+<body>
+  <main class="page-container">
+    <header class="hero">
+      <h1>Blog</h1>
+      <p>
+        Select one of the sections below to learn more about our work,
+        services, resources, and contact information.
+      </p>
+    </header>
+
+    <nav class="button-grid" aria-label="Main website sections">
+      <a class="page-button" href="/blog/reading/">
+        <span class="button-icon" aria-hidden="true">●</span>
+
+        <div>
+          <h2 class="button-title">Reading</h2>
+          <p class="button-description">
+          Musings of scientific journal articles.  
+          </p>
+        </div>
+
+        <span class="button-arrow" aria-hidden="true">→</span>
+      </a>
+
+      <a class="page-button" href="/blog/ctDNA">
+        <span class="button-icon" aria-hidden="true">◆</span>
+
+        <div>
+          <h2 class="button-title">ctDNA</h2>
+          <p class="button-description">
+            Ongoing work in circulating tumor DNA
+          </p>
+        </div>
+
+        <span class="button-arrow" aria-hidden="true">→</span>
+      </a>
+
+      <a class="page-button" href="/blog/AI">
+        <span class="button-icon" aria-hidden="true">■</span>
+
+        <div>
+          <h2 class="button-title">✨ AI Education ✨</h2>
+          <p class="button-description">
+            Work on educating physicians on effective AI use. 
+          </p>
+        </div>
+
+        <span class="button-arrow" aria-hidden="true">→</span>
+      </a>
+
+      <a class="page-button" href="/blog/PRS">
+        <span class="button-icon" aria-hidden="true">▲</span>
+
+        <div>
+          <h2 class="button-title">Contact</h2>
+          <p class="button-description">
+            Old blog postings on PRS research.
+          </p>
+        </div>
+
+        <span class="button-arrow" aria-hidden="true">→</span>
+      </a>
+    </nav>
+  </main>
+</body>
 
 <div style="clear: both;"></div>
 
